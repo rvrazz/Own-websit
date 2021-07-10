@@ -1,0 +1,25 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 5%;
+}
+.h1-col{
+    color: tomato;
+}
+section{
+    display: flex 50%;
+}
+h1{
+    padding: 5%;
+}
+.p-i{
+    display: flex;
+    font-size: 18px;
+    padding-left: 5%;
+    width: 80%;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(pink, plum);
+    border-radius: 5%;
+    font-size: 120%;
+}
