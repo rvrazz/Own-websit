@@ -1,6 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 }
 .h1-col{
     color: tomato;
@@ -20,9 +20,12 @@ h1{
 }
 a{
     text-decoration: none;
-    background-image: linear-gradient(pink,rgba(255, 0, 0, 0.527));
+    background-image: linear-gradient(teal, rgba(115, 115, 252, 0.685));
     border-radius: 10%;
     font-size: 120%;
+}
+.tbc{
+    color: white;
 }
 .s2f{
     background-image: url("images/Frame\ 59.jpg");
