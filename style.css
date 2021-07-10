@@ -29,10 +29,14 @@ a{
     display: flex;
     font-size: 18px;
     padding-left: 5%;
+    padding-right: 25%;
 }
 .line{
     padding-left: 10%;
 }
 .s2h{
+    padding-left: 40%;
+}
+#side{
     padding-left: 40%;
 }
