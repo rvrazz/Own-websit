@@ -53,4 +53,44 @@ a{
 }
 .box{
 display: flex;
+padding-left: 16%;
+padding-bottom: 10%;
+}
+.box-a{
+    width: 184px;
+    padding: 30px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 10px;
+    margin: 20px;
+}
+.box-b{
+    width: 184px;
+    padding: 30px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 10px;
+    margin: 20px;
+}.box-c{
+    width: 184px;
+    padding: 30px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 10px;
+    margin: 20px;
+}
+.im{
+    border-radius: 10px;
+}
+h4{
+    padding-left: 15%;
+}
+.la-se{
+    background-color: teal;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 35%;
 }
