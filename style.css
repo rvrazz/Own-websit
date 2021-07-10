@@ -98,7 +98,7 @@ h4{
     text-align: center;
     display: flex;
     width: 550px;
-    border:1px solid white;
+    border:1px solid whitesmoke;
     background-color: white;
     box-shadow: 10px 10px 10px 10px whitesmoke;
     border-radius: 10px;
@@ -110,7 +110,7 @@ h4{
 }
 .la-se{
     background-color: teal;
-    padding-top: 3%;
-    padding-bottom: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
     padding-left: 35%;
 }
